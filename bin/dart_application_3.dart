@@ -16,7 +16,6 @@ void main() {
   List<String> list = ["apple", "banana", "cherry", "date"];
   print(list.join(', '));
 
-  //zadacha 5
   String message = "Hello, Dart!";
   print(message.contains('"Dart"'));
 
